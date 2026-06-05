@@ -1,0 +1,29 @@
+# Automation Exercise Selenium Project
+
+## Project Overview
+This project automates test scenarios for https://automationexercise.com using Selenium WebDriver.
+
+## Tools Used
+- Java
+- Selenium WebDriver
+- TestNG
+- Maven
+- Eclipse
+- GitHub
+
+## Test Cases Automated
+1. Login
+2. Logout
+3. Contact Us
+4. Add To Cart
+5. Brand Filter
+6. Category Filter
+7. Product Quantity
+
+## Project Structure
+- src/test/java/testcases
+- pom.xml
+- testng.xml
+
+## Author
+Resmi Arun
